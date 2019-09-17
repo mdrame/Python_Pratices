@@ -1,7 +1,6 @@
- Python Pratice: 
+🐍 Python Pratice: 
 
-Daily dose of python ( Working on bettering my python skills)
+💊 Daily dose of python ( Working on bettering my python skills)
 
-link to pratices questions here : <a href="hppt://www.practicepython.org/> Pratice Python </a>
-
+Link to pratices questions here : www.practicepython.org
 
